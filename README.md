@@ -1,4 +1,4 @@
-# 👋 ROHANN HAROLD N. MONDIGUING
+# ROHANN HAROLD N. MONDIGUING
 
 ---
 
@@ -37,14 +37,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AI](https://img.shields.io/badge/AI-%23000000?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 ---
-
-<div align="center">
-  
-### 🚀 Let's Build Something Amazing Together!
-  
-</div>
