@@ -1,34 +1,17 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c99ff,100:003366&height=200&section=header&text=Rohann%20Harold%20N.%20Mondiguing&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<!-- Typing Intro -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%234C9AFF&size=28&center=true&vCenter=true&width=550&lines=Hi+I'm+Rohann+Harold!;BSIT+4th+Year+Student;Full-Stack+Web+Developer;Mobile+Developer;Tech+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=28&center=true&vCenter=true&width=550&lines=Hi+I'm+Rohann+Mondiguing!;BSIT+4th+Year+Student"/>
 </h3>
-
----
-
-## 👨‍💻 About Me
-- 🎓 4th Year BSIT Student – Philippines  
-- 🌐 Portfolio: **https://hann-portfolio.vercel.app**
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihannro&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihannro&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ihannro&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ihannro&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
----
 
-## 🔢 Visitor Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ihannro&label=Visitors&color=blue&style=flat-square" />
-</p>
 
 ---
 
@@ -59,18 +42,5 @@
   <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
-
-## 📫 Contact Me
-<p align="center">
-  📧 Email: <a href="mailto:hannmomong@gmail.com">hannmomong@gmail.com</a> •  
-  🌐 Portfolio: <a href="https://hann-portfolio.vercel.app">hann-portfolio.vercel.app</a> •  
-  💼 LinkedIn: <a href="https://linkedin.com/in/rohann-mondiguing-840a7039a">linkedin.com/in/rohann-mondiguing</a>
-</p>
 
 ---
-
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:4c99ff&height=120&section=footer"/>
-</p>
