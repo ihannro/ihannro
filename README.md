@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/ihannro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihannro&show_icons=true&theme=dark&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihannro&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/ihannro">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihannro&layout=compact&theme=dark&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
