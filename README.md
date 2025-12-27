@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=28&center=true&vCenter=true&width=550&lines=Hi+I'm+Rohann+Mondiguing!;BSIT+4th+Year+Student"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=28&center=true&vCenter=true&width=550&lines=HELLO!,+I'M+ROHANN+MONDIGUING;BSIT+4TH+YEAR+STUDENT"/>
 </h3>
 
 ---
